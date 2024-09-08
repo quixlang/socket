@@ -1,0 +1,5 @@
+.qpkg/
+socket
+socket.exe
+libsocket.a
+libsocket.so

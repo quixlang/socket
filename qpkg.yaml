@@ -1,0 +1,10 @@
+headers: ["include"]
+target: "sharedlib"
+sources: ["src"]
+licenses: ["MIT"]
+authors: ["Wesley Jones"]
+url: "https:\/\/qpkg.io"
+emails: ["project@qpkg.io"]
+description: "QUIX Socket provides abstractions for interacting with the BSD sockets"
+name: "socket"
+version: 1
